@@ -1,0 +1,13 @@
+### Example user template template
+.DS_Store
+node_modules
+/dist
+
+# IDE project files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
