@@ -1,0 +1,8 @@
+@import "./test.css";
+.content {
+    display: inline-block;
+    background-image: url("../images/ylswjsy7stw-scaled.jpeg");
+    background-size: contain;
+    width: 1200px;
+    height: 800px;
+}
