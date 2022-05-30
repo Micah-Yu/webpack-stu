@@ -95,7 +95,7 @@ console.log(mul(3,  4))
 > 1. 全局webpack
 >    - 使用 `npm install -g webpack webpack-cli`
 >    - 安装的位置：我的node使用的是nvm进行多版本管理，目录为用户根目录下 `~/.nvm/versions/node/v16.15.0/bin`
->      ![截屏2022-05-24 18.39.40](./.assets/截屏2022-05-24 18.39.40.png)
+>      ![截屏2022-05-24 18.39.40](./.assets/local-package-pwd.png)
 >    - 在所有的目录下都可以直接执行 `webpack` 命令
 > 2. 局部 webpack
 >    - 在项目中使用 `npm install -D webpack webpack-cli`
